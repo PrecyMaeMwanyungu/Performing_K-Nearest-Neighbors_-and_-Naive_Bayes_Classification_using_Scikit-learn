@@ -9,7 +9,7 @@ We will be using the Titanic train and test dataset to perform a K Nearest Neigh
 
 ## SetUp / Installation Requirements
   Clone the repo by running:
-*   git clone 
+*   git clone: https://github.com/PrecyMaeMwanyungu/Performing_K-Nearest-Neighbors_and_Naive_Bayes_Classification_using_Scikit-learn.git
 
 ## TECHNOLOGIES USED
 * Python
